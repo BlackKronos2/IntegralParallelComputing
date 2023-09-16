@@ -1,0 +1,6 @@
+﻿  parallProg.cpp
+C:\Users\arefe\Desktop\parallProg\parallProg.cpp(85,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+C:\Users\arefe\Desktop\parallProg\parallProg.cpp(133,15): warning C4101: my_thread: неиспользованная локальная переменная
+C:\Users\arefe\Desktop\parallProg\parallProg.cpp(80): warning C4172: возвращение адреса локальной или временной переменной : result
+C:\Users\arefe\Desktop\parallProg\parallProg.cpp(118): warning C4172: возвращение адреса локальной или временной переменной : threads_data
+  parallProg.vcxproj -> C:\Users\arefe\Desktop\parallProg\Debug\parallProg.exe
